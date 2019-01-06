@@ -1,0 +1,94 @@
+#page{
+    width: 80%; 
+    margin: auto;
+}
+body{
+    background-image: url("../img/bambou2.jpg");
+    background-size: cover;
+    font-family:'Barlow', sans-serif;
+    font-size: 16px
+    color: darkblue;
+
+}
+.fond-bleu {
+    background-color:rgb(3, 121, 3) ;
+    padding-bottom: 6px;
+
+
+}
+.fond-blanc{
+    background-color: antiquewhite;
+}
+
+.fondcolor {
+    margin-bottom: 190px;
+}
+
+h1, h2 {
+    font-family:'Cabin Sketch', cursive;
+    margin: auto;
+    margin-bottom:7px;
+    margin-top: 9px;
+   
+
+}
+h1 {
+    color: rgb(4, 167, 4);
+    font-size: 4em;
+}
+h2 {
+    color: rgb(3, 121, 3);
+    font-size: 40px;
+}
+h3 {
+    font-family:'Cabin Sketch', cursive;
+    color: brown;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#white-title{
+    color: antiquewhite;
+    margin-left: 15px;
+}
+.font-weight-bold{
+    width: 100%;
+    margin-left: 4em;
+}
+
+#pwhite {
+    color: antiquewhite;
+    font-size: 20px;
+    
+}
+.text-center {
+    text-align: center;
+    margin: auto;
+}
+p {
+    margin-left: 2em;
+}
+
+#pgros {
+
+    font-size: 30px;
+    color: brown;
+}
+.ligne2 {
+    display: block;
+    width: 85%;
+    height: 3px;
+    background-color:rgb(3, 121, 3);
+    margin: auto;
+}
+.ligne {
+    display: block;
+    width: 85%;
+    height: 3px;
+    background-color : antiquewhite;
+    
+}
+
+
+
+
